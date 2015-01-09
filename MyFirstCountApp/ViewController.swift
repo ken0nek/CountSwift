@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    @IBOutlet var numberLabel : UILabel
+    @IBOutlet weak var numberLabel : UILabel!
     var number: Int = 0
     
     override func viewDidLoad() {
@@ -27,18 +27,14 @@ class ViewController: UIViewController {
         switch(button.tag) {
         case 0:
             number++
-            break
         case 1:
             number--
-            break
         case 2:
             number *= 2
-            break
         case 3:
             number /= 2
-            break
         default:
-            break;
+            break
         }
         numberLabel.text = "\(number)"
     }

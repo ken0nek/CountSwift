@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>761DDBA7-C144-4E74-8FC7-DA264F616DF9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyFirstCountApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>657B71A5C4FB7111E7B31533D762EA1CA778CE17</key>
+		<string>github.com:ken0nek/CountSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyFirstCountApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>657B71A5C4FB7111E7B31533D762EA1CA778CE17</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ken0nek/CountSwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>657B71A5C4FB7111E7B31533D762EA1CA778CE17</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>657B71A5C4FB7111E7B31533D762EA1CA778CE17</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyFirstCountApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
